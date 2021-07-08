@@ -4,7 +4,7 @@ Installation
 -------------
 
 ### Package Dependencies
-codes in this git was developed with python 3.x require the following packages:
+codes in this git were developed with python 3.x and require the following packages:
 
 * pandas
 * scikit-learn
